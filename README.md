@@ -44,3 +44,7 @@ Derya (Darya) Teke
 @deryateke
 
 React Frontend Developer | Software Developer
+
+# 📸 Preview
+
+!Coffee-Espresso](Coffee-Espresso.gif)
