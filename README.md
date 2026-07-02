@@ -37,7 +37,7 @@ Font Awesome - Icons
 
 Google Maps Embed API
 
-Author
+# Author
 
 Derya (Darya) Teke
 
