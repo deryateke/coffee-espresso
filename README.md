@@ -47,4 +47,4 @@ React Frontend Developer | Software Developer
 
 # 📸 Preview
 
-![Coffee Espresso Preview](coffee-espresso/-espresso.gif)
+![-espresso](-espresso.gif)
